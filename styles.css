@@ -1,0 +1,61 @@
+
+    h3{color:yellow;
+        margin: 20px;
+        font-size: 200px;
+    }
+    .heading{color:red;
+        
+    }
+
+    #h2{color:green;}
+
+    *{
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    .paragraph{
+        width: 500px;
+        height: 1000px;
+        color: blueviolet;
+        font-size: 50px;
+        background-color: red;
+        padding: 100px;
+    }
+
+    .img{
+        width: 1000px;
+        height: 500px;
+        object-fit: contain;
+    }
+
+    h1
+    {
+        display: inline;
+        text-align: center;
+    }
+
+    .click-button{
+        cursor: pointer;
+        border: none;
+        padding: 15px 30px;
+        background-color:rgb(187, 221, 118);
+        margin-top: 20px;
+        border-radius: 20%;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .click-button a {
+        text-decoration: none;
+        color:black;
+        font-size: 18px;
+    }
+
+    .click-button:hover{
+         transition: transform 0.3s ease
+    }
+
+    .flex{
+        display: flex;
+        gop: 40px;   
+    }
